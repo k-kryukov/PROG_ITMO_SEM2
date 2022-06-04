@@ -1,0 +1,1 @@
+This repository contains implementation of my custom Pool Allocator.
